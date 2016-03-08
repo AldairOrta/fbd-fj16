@@ -1,0 +1,8 @@
+Public class Hola {
+
+ 	Public static void main (String[] args)
+	{
+		System.out.ptintln("Hola mundo");
+		System.out.ptintln("Otra cosa");
+	}
+}
